@@ -1,0 +1,9 @@
+.idea/
+.gradle/
+
+build/
+run/
+/*.hprof
+/remappedSrc
+/gradle
+gradlew*
