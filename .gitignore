@@ -5,5 +5,3 @@ build/
 run/
 /*.hprof
 /remappedSrc
-/gradle
-gradlew*
